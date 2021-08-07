@@ -1,1 +1,1 @@
-Narrator, Harry , Hermione , Ginny , Ron
+Narrator, Harry , Hermione , Ginny , Ron , Dobby
